@@ -1,0 +1,116 @@
+/* ===================== */
+/* RESET & BASE          */
+/* ===================== */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, sans-serif;
+  line-height: 1.5;
+  color: #222;
+  background-color: #fafafa;
+}
+
+/* ===================== */
+/* LAYOUT SCROLLY        */
+/* ===================== */
+
+#scrolly-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* ===================== */
+/* COLONNE TEXTE         */
+/* ===================== */
+
+.scrolly-text {
+  display: flex;
+  flex-direction: column;
+  gap: 60vh; /* espace vertical entre les steps */
+}
+
+/* Chaque étape */
+.step {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  min-height: 80vh;
+}
+
+.step.step-5 {
+  min-height: 1000vh; /* ≈ 7 secondes de scroll naturel */
+}
+
+/* Titres */
+.step h2 {
+  margin-bottom: 0.5rem;
+  font-size: 1.25rem;
+}
+
+/* ===================== */
+/* COLONNE VISUALISATION */
+/* ===================== */
+
+.scrolly-vis {
+  position: sticky;
+  top: 2rem;
+  height: calc(100vh - 4rem);
+  background: #eaeaea;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Conteneur D3 / carte */
+#vis {
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  position: relative;
+  overflow: hidden;
+}
+
+.step.is-active {
+  border-left: 6px solid #2c7be5;
+  background-color: #f0f6ff;
+}
+
+svg {
+  display: block;
+}
+
+/* ===================== */
+/* LÉGENDE */
+/* ===================== */
+
+text {
+  fill: #333;
+  font-family: system-ui, sans-serif;
+}
+
+.axis-time path,
+.axis-time line {
+  stroke: #555;
+}
+
+.axis-time text {
+  font-size: 11px;
+  fill: #555;
+}
+
+.axis-legend path,
+.axis-legend line {
+  stroke: none;
+}

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <!-- Encodage et compatibilité -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Titre du projet -->
+  <title>Plan climat – Scrollytelling</title>
+
+  <!-- Description (utile plus tard si publié) -->
+  <meta
+    name="description"
+    content="Scrollytelling sur les services liés au plan climat et la jeunesse dans l'Est du Québec."
+  />
+
+  <!-- ===================== -->
+  <!-- LIBRAIRIES EXTERNES -->
+  <!-- ===================== -->
+
+  <!-- D3.js -->
+  <!-- Version CDN stable, parfaite pour Vite et le prototypage -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://unpkg.com/d3-tile@1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-geo@3"></script>
+  <!-- Scrollama -->
+  <script src="https://unpkg.com/scrollama"></script>
+
+  <!-- leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+ <!-- turf pour merger des polygones geoJSON -->
+<script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
+
+  <!-- ===================== -->
+  <!-- STYLES -->
+  <!-- ===================== -->
+
+  <!-- CSS principal (sera créé à l'étape suivante) -->
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+
+<body>
+
+  <main id="scrolly-container">
+
+    <!-- ===================== -->
+    <!-- COLONNE TEXTE -->
+    <!-- ===================== -->
+    <section class="scrolly-text">
+
+      <div class="step" data-step="estduquebec">
+        <h2>La zone de service courte : l'Est du Québec</h2>
+        <p>
+          À compléter
+        </p>
+      </div>
+      
+      <div class="step" data-step="territoire_autochtone">
+        <h2>Les territoires autochtones au Québec</h2>
+        <p>
+          À compléter
+        </p>
+      </div>
+
+      <div class="step" data-step="regions_EstduQuebec">
+        <h2>Les régions administratives de l'Est-du-Québec</h2>
+        <p>
+          À compléter
+        </p>
+      </div>
+
+      <div class="step" data-step="zoom_approche__bsl">
+        <h2>Zoom sur le Bas-Saint-Laurent</h2>
+        <p>
+          À compléter
+        </p>
+      </div>
+
+      <div class="step" data-step="choropleth_bsl">
+        <h2>Les jeunes au Bas-Saint-Laurent</h2>
+        <p>
+          À compléter
+        </p>
+      </div>
+
+            <div class="step" data-step="choropleth_EstduQuebec">
+        <h2>tbd</h2>
+        <p>
+          À compléter
+        </p>
+      </div>
+
+       <div class="step" data-step="time_series_service_bsl">
+        <h2>L'évolution de la demande de services</h2>
+        <p>
+          À compléter
+        </p>
+      </div>
+
+      <div class="step" data-step="zoomOut_service_EstduQuebec">
+        <h2>L'état des services dans l'Est-du-Québec</h2>
+        <p>
+          À compléter
+        </p>
+      </div>
+
+      <div class="step" data-step="types_services_EstduQuebec">
+        <h2>La répartition des services par MRC</h2>
+        <p>
+          À compléter
+        </p>
+      </div>
+
+      <div class="step" data-step="communaute_allochtone_autochtone">
+        <h2>La répartition des communautés allochtones et autochtones de l'Est</h2>
+        <p>
+          À compléter
+        </p>
+      </div>
+
+      <div class="step" data-step="network_collaboration">
+        <h2>tbd</h2>
+        <p>
+          Fin
+        </p>
+      </div>
+
+    </section>
+
+    <!-- ===================== -->
+    <!-- COLONNE VISUALISATION -->
+    <!-- ===================== -->
+    <section class="scrolly-vis">
+      <!-- Conteneur pour la carte / SVG D3 -->
+      <div id="vis"></div>
+    </section>
+
+  </main>
+
+  <!-- ===================== -->
+  <!-- SCRIPT PRINCIPAL -->
+  <!-- ===================== -->
+
+  <!-- Point d'entrée JS (Vite) -->
+  <script type="module" src="/js/main.js"></script>
+
+</body>
+</html>

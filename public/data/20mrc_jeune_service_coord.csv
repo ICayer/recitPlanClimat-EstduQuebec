@@ -1,0 +1,21 @@
+region,MRS_NM_MRC,MRS_CO_MRC,ville,latitude,longitude,jeune_0_19,population,jeuneValeur,serviceValeur,serviceRepresentation,serviceReseautage,serviceExpertise,serviceDocument,serviceProduction,serviceFormation
+Gaspésie-Îles-de-la-Madeleine,Communauté maritime des Îles-de-la-Madeleine,01,Cap-aux-Meules,47.377430,-61.866074 ,14.7,12883,1894,1,0,0,0,1,0,0
+Gaspésie-Îles-de-la-Madeleine,Le Rocher-Percé,02,Percé,48.522517,-64.213715 ,14,17050,2387,1,0,1,0,0,0,0
+Gaspésie-Îles-de-la-Madeleine,La Côte-de-Gaspé,03,Gaspé,48.831730,-64.484253 ,17.6,17949,3159,2,2,0,0,0,0,0
+Gaspésie-Îles-de-la-Madeleine,La Haute-Gaspésie,04,Sainte-Anne-des-Monts,49.126017,-66.484314 ,14.8,10942,1619,0,0,0,0,0,0,0
+Gaspésie-Îles-de-la-Madeleine,Bonaventure,05,Bonaventure,48.044460,-65.491672,16.7,18026,3010,3,2,1,0,0,0,0
+Gaspésie-Îles-de-la-Madeleine,Avignon,06,Maria,48.203722,-66.008836,19.6,15234,2986,1,0,0,1,0,0,0
+Bas-Saint-Laurent,La Matapédia,07,Amqui,48.466548,-67.430134,18.5,17778,3289,7,0,0,7,0,0,0
+Bas-Saint-Laurent,La Matanie,08,Matane,48.846643,-67.531860 ,16.1,21525,3466,0,0,0,0,0,0,0
+Bas-Saint-Laurent,La Mitis,09,Ste-Flavie,48.609902,-68.232350 ,19.4,18547,3598,5,1,1,0,3,0,0
+Bas-Saint-Laurent,Rimouski-Neigette,10,Rimouski,48.449699,-68.529282 ,18.1,60269,10909,12,4,2,5,0,0,1
+Bas-Saint-Laurent,Les Basques,11,Trois-Pistoles,48.122789,-69.170265 ,16.4,8975,1472,1,0,0,0,0,1,0
+Bas-Saint-Laurent,Rivière-du-Loup,12,Rivière-du-Loup,47.835514,-69.535904 ,19.7,36440,7179,2,0,1,1,0,0,0
+Bas-Saint-Laurent,Témiscouata,13,Témiscouata-sur-le-Lac,47.619471,-68.803974 ,16.9,20039,3387,0,0,0,0,0,0,0
+Bas-Saint-Laurent,Kamouraska,14,St-Pascal,47.526475,-69.807129 ,18,21182,3813,5,0,2,2,1,0,0
+Côte-Nord,La Haute-Côte-Nord,95,Les Escoumins,48.346210,-69.409149 ,16.2,10047,1628,0,0,0,0,0,0,0
+Côte-Nord,Manicouagan,96,Baie-Comeau,49.210869,-68.178406 ,18.9,30169,5702,2,0,1,1,0,0,0
+Côte-Nord,Sept-Rivières,971,Sept-Îles, 50.212064,-66.386261,22.2,34432,7644,5,3,1,1,0,0,0
+Côte-Nord,Caniapiscau,972,Fermont,52.798444,-67.087326 ,29.5,3763,1110,0,0,0,0,0,0,0
+Côte-Nord,Minganie,981,Havre-Saint-Pierre,50.250278,-63.597794 ,21.6,6588,1423,1,0,0,1,0,0,0
+Côte-Nord,Le Golfe-du-St-Laurent,982,Chevery,50.467557,-59.617310 ,20.6,4622,952,2,0,1,0,1,0,0

@@ -1,0 +1,54 @@
+id,date,dateISO8601,MRS_NM_REG,MRC_CO_MRC,MRS_NM_MRC,organisation,ville,latitude,longitude,service
+1,9 septembre 2024,2024-09-09,Gaspésie–Îles-de-la-Madeleine,01,Communauté maritime des Îles-de-la-Madeleine,MRC,Cap-aux-Meules,47.377430,-61.866074 ,documentation
+2,19 septembre 2024,2024-09-19,Bas-Saint-Laurent,10,Rimouski-Neigette,CRD,Rimouski,48.449699,-68.529282 ,expertise-conseil
+3,24 septembre 2024,2024-09-24,Bas-Saint-Laurent,14,Kamouraska,MRC,St-Pascal,47.526475,-69.807129 ,documentation
+4,24 septembre 2024,2024-09-24,Bas-Saint-Laurent,14,Kamouraska,MRC,St-Pascal,47.526475,-69.807129 ,expertise-conseil
+5,24 septembre 2024,2024-09-24,Bas-Saint-Laurent,10,Rimouski-Neigette,MRC,Rimouski,48.449699,-68.529282 ,représentation
+6,24 septembre 2024,2024-09-24,Bas-Saint-Laurent,14,Kamouraska,MRC,St-Pascal,47.526475,-69.807129 ,réseautage
+7,26 septembre 2024,2024-09-26,Bas-Saint-Laurent,14,Kamouraska,MRC,St-Pascal,47.526475,-69.807129 ,réseautage
+8,30 septembre 2024,2024-09-30,Côte-Nord,971,Sept-Rivières,MRC,Sept-Îles, 50.212064,-66.386261,expertise-conseil
+9,1 octobre 2024,2024-10-01,Bas-Saint-Laurent,11,Les Basques,MRC,Trois-Pistoles,48.122789,-69.170265 ,production
+10,4 octobre 2024,2024-10-04,Bas-Saint-Laurent,12,Rivière-du-Loup,MRC,Rivière-du-Loup,47.835514,-69.535904 ,expertise-conseil
+11,7 octobre 2024,2024-10-07,Bas-Saint-Laurent,10,Rimouski-Neigette,MRC,Rimouski,48.449699,-68.529282 ,expertise-conseil
+12,24 octobre 2024,2024-10-24,Bas-Saint-Laurent,10,Rimouski-Neigette,MSP,Rimouski,48.449699,-68.529282 ,représentation
+13,28 octobre 2024,2024-10-28,Côte-Nord,971,Sept-Rivières,Environnement Côte-Nord,Sept-Îles, 50.212064,-66.386261,représentation
+14,5 novembre 2024,2024-11-05,Bas-Saint-Laurent,07,La Matapédia,MRC,Amqui,48.466548,-67.430134,expertise-conseil
+15,5 novembre 2024,2024-11-05,Bas-Saint-Laurent,10,Rimouski-Neigette,MRC,Rimouski,48.449699,-68.529282 ,réseautage
+16,19 novembre 2024,2024-11-19,Gaspésie–Îles-de-la-Madeleine,03,La Côte-de-Gaspé,Regroupement des MRC de la Gaspésie,Gaspé,48.831730,-64.484253 ,représentation
+17,19 novembre 2024,2024-11-19,Bas-Saint-Laurent,07,La Matapédia,MRC,Amqui,48.466548,-67.430134,expertise-conseil
+18,9 décembre 2024,2024-12-09,Côte-Nord,,Agglomération de Québec,Société du Plan Nord,Québec,46.815099,-71.202393 ,expertise-conseil
+19,31 janvier 2025,2025-01-31,Lanaudière,,Matawinie,MRC,Rawdon,46.045834,-73.710365 ,production
+20,31 janvier 2025,2025-01-31,Chaudière-Appalaches,,Etchemins,MRC,Lac Etchemins,46.398568,-70.507851 ,production
+21,7 février 2025,2025-02-07,Bas-Saint-Laurent,10,Rimouski-Neigette,MRC,Rimouski,48.449699,-68.529282 ,réseautage
+22,2 avril 2025,2025-04-02,Gaspésie–Îles-de-la-Madeleine,03,La Côte-de-Gaspé,Regroupement des MRC de la Gaspésie,Gaspé,48.831730,-64.484253 ,représentation
+23,12 mars 2025,2025-03-12,Bas-Saint-Laurent,07,La Matapédia,MRC,Amqui,48.466548,-67.430134,expertise-conseil
+24,20 mai 2025,2025-05-20,Bas-Saint-Laurent,07,La Matapédia,MRC,Amqui,48.466548,-67.430134,expertise-conseil
+25,20 mai 2025,2025-05-20,Bas-Saint-Laurent,10,Rimouski-Neigette,MRC,Rimouski,48.449699,-68.529282 ,expertise-conseil
+26,29 octobre 2025,2025-10-29,Bas-Saint-Laurent,10,Rimouski-Neigette,UQAR,Rimouski,48.449699,-68.529282 ,expertise-conseil
+27,27 mai 2025,2025-05-27,Côte-Nord,971,Sept-Rivières,Environnement Côte-Nord,Sept-Îles, 50.212064,-66.386261,représentation
+28,4 juin 2025,2025-04-04,Gaspésie–Îles-de-la-Madeleine,05,Bonaventure,MRC,Bonaventure,48.044460,-65.491672,représentation
+29,5 juin 2025,2025-06-05,Bas-Saint-Laurent,10,Rimouski-Neigette,MRC,Rimouski,48.449699,-68.529282 ,représentation
+30,11 juin 2025,2025-06-11,Gaspésie–Îles-de-la-Madeleine,06,Avignon,MRC,Maria,48.203722,-66.008836,expertise-conseil
+31,12 juin 2025,2025-06-12,Bas-Saint-Laurent,10,Rimouski-Neigette,MRC,Rimouski,48.449699,-68.529282 ,représentation
+32,12 juin 2025,2025-06-12,Bas-Saint-Laurent,09,La Mitis,MRC,Ste-Flavie,48.609902,-68.232350 ,documentation
+33,16 juin 2025,2025-06-16,Gaspésie–Îles-de-la-Madeleine,02,Le Rocher-Percé,MRC,Percé,48.522517,-64.213715 ,réseautage
+34,16 juillet 2025,2025-07-16,Gaspésie–Îles-de-la-Madeleine,05,Bonaventure,MRC,Bonaventure,48.044460,-65.491672,représentation
+35,4 septembre 2025,2025-09-04,Bas-Saint-Laurent,07,La Matapédia,MRC,Amqui,48.466548,-67.430134,expertise-conseil
+36,18 septembre 2025,2025-09-18,Bas-Saint-Laurent,09,La Mitis,MRC,Ste-Flavie,48.609902,-68.232350 ,réseautage
+37,23 septembre 2025,2025-09-23,Bas-Saint-Laurent,10,Rimouski-Neigette,MRC,Rimouski,48.449699,-68.529282 ,formation
+38,29 septembre 2025,2025-09-29,Bas-Saint-Laurent,14,Kamouraska,MRC,St-Pascal,47.526475,-69.807129 ,expertise-conseil
+39,29 septembre 2025,2025-09-29,Côte-Nord,971,Sept-Rivières,Environnement Côte-Nord,Sept-Îles, 50.212064,-66.386261,représentation
+40,1 octobre 2025,2025-10-01,Côte-Nord,981,Minganie,MRC,Havre-Saint-Pierre,50.250278,-63.597794 ,expertise-conseil
+41,9 octobre 2025,2025-10-09,Côte-Nord,971,Sept-Rivières,Environnement Côte-Nord,Sept-Îles, 50.212064,-66.386261,réseautage
+42,15 octobre 2025,2025-10-15,Bas-Saint-Laurent,09,La Mitis,MRC,Ste-Flavie,48.609902,-68.232350 ,documentation
+43,27 octobre 2025,2025-10-27,Bas-Saint-Laurent,09,La Mitis,MRC,Ste-Flavie,48.609902,-68.232350 ,documentation
+44,27 octobre 2025,2025-10-27,Bas-Saint-Laurent,09,La Mitis,MRC,Ste-Flavie,48.609902,-68.232350 ,représentation
+45,27 octobre 2025,2025-10-27,Bas-Saint-Laurent,10,Rimouski-Neigette,MRC,Rimouski,48.449699,-68.529282 ,expertise-conseil
+46,5 novembre 2025,2025-11-05,Bas-Saint-Laurent,07,La Matapédia,MRC,Amqui,48.466548,-67.430134,expertise-conseil
+47,26 novembre 2025,2025-11-26,Côte-Nord,96,Manicouagan,MRC,Baie-Comeau,49.210869,-68.178406 ,expertise-conseil
+48,2 décembre 2025,2025-12-02,Bas-Saint-Laurent,07,La Matapédia,MRC,Amqui,48.466548,-67.430134,expertise-conseil
+49,3 décembre 2025,2025-12-03,Côte-Nord,982,Le Golfe-du-St-Laurent,MRC,Chevery,50.467557,-59.617310 ,documentation
+50,12 décembre 2025,2025-12-12,Côte-Nord,96,Manicouagan,MRC,Baie-Comeau,49.210869,-68.178406 ,réseautage
+51,15 janvier 2026,2026-01-15,Gaspésie–Îles-de-la-Madeleine,05,Bonaventure,MRC,Bonaventure,48.044460,-65.491672,réseautage
+52,19 janvier 2026,2026-01-19,Bas-Saint-Laurent,12,Rivière-du-Loup,MRC,Rivière-du-Loup,47.835514,-69.535904 ,réseautage
+53,4 février 2026,2026-02-04,Côte-Nord,982,Le Golfe-du-St-Laurent,MRC,Chevery,50.467557,-59.617310 ,réseautage

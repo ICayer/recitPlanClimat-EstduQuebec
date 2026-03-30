@@ -1,0 +1,63 @@
+{
+  "estduquebec": {
+    "zoom": "global",
+    "couleur": "none",
+    "legende": "none",
+    "layers": ["estduquebec"]
+  },
+
+  "territoire_autochtone": {
+    "zoom": "global",
+    "legende": "autochtone",
+    "layers": ["autochtone"]
+  },
+
+  "regions_EstduQuebec": {
+    "zoom": "global",
+    "couleur": "regions",
+    "legende": "regions",
+    "layers": ["mrc"]
+  },
+
+  "zoom_approche__bsl": {
+    "zoom": "approche",
+    "regionActive": "Bas-Saint-Laurent",
+    "layers": ["mrc"]
+  },
+
+  "choropleth_bsl": {
+    "zoom": "focus",
+    "regionActive": "Bas-Saint-Laurent",
+    "couleur": "regionsContraste",
+    "legende": "choropleth",
+    "layers": ["mrc"]
+  },
+
+  "time_series_service_bsl": {
+    "zoom": "focus",
+    "regionActive": "Bas-Saint-Laurent",
+    "couleur": "focus",
+    "legende": "none",
+    "layers": ["mrc", "services"],
+    "module": "timeSeriesBSL"
+  },
+
+  "zoomOut_service_EstduQuebec": {
+    "zoom": "global",
+    "couleur": "regions",
+    "layers": ["mrc", "services"],
+    "module": "latestServices"
+  },
+
+  "types_services_EstduQuebec": {
+    "zoom": "global",
+     "legende": "pie",
+    "layers": ["pie"]
+  },
+
+  "communaute_allochtone_autochtone": {
+    "couleur": "regions",
+     "legende": "communaute",
+    "layers": ["communaute"]
+  }
+}

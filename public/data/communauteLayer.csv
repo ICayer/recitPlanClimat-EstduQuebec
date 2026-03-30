@@ -1,0 +1,33 @@
+ville,region,typeCommunaute,nationPP,latitude,longitude
+Cap-aux-Meules,Gaspésie–Îles-de-la-Madeleine,allochtone,,47.377430,-61.866074
+Percé,Gaspésie–Îles-de-la-Madeleine,allochtone,,48.522517,-64.213715
+Gaspé,Gaspésie–Îles-de-la-Madeleine,allochtone,,48.831730,-64.484253
+Sainte-Anne-des-Monts,Gaspésie–Îles-de-la-Madeleine,allochtone,,49.126017,-66.484314
+Bonaventure,Gaspésie–Îles-de-la-Madeleine,allochtone,,48.044460,-65.491672
+Maria,Gaspésie–Îles-de-la-Madeleine,allochtone,,48.203722,-66.008836
+Amqui,Bas-Saint-Laurent,allochtone,,48.466548,-67.430134
+Matane,Bas-Saint-Laurent,allochtone,,48.846643,-67.531860
+Ste-Flavie,Bas-Saint-Laurent,allochtone,,48.609902,-68.232350
+Rimouski,Bas-Saint-Laurent,allochtone,,48.449699,-68.529282
+Trois-Pistoles,Bas-Saint-Laurent,allochtone,,48.122789,-69.170265
+Rivière-du-Loup,Bas-Saint-Laurent,allochtone,,47.835514,-69.535904
+Témiscouata-sur-le-Lac,Bas-Saint-Laurent,allochtone,,47.619471,-68.803974
+St-Pascal,Bas-Saint-Laurent,allochtone,,47.526475,-69.807129
+Les Escoumins,Côte-Nord,allochtone,,48.346210,-69.409149
+Baie-Comeau,Côte-Nord,allochtone,,49.210869,-68.178406
+Sept-Îles,Côte-Nord,allochtone,,50.212064,-66.386261
+Fermont,Côte-Nord,allochtone,,52.798444,-67.087326
+Havre-Saint-Pierre,Côte-Nord,allochtone,,50.250278,-63.597794
+Chevery,Côte-Nord,allochtone,,50.467557,-59.617310
+Wolastoqikik Wahsipekyk,Bas-Saint-Laurent,autochtone,Wolastoqiyik,47.915422,-69.499786
+Listuguj,Gaspésie–Îles-de-la-Madeleine,autochtone,Mi’kma’ki,48.013215,-66.701603
+Gesgapegiag,Gaspésie–Îles-de-la-Madeleine,autochtone,Mi’kma’ki,48.199163,-65.919179
+Gespeg,Gaspésie–Îles-de-la-Madeleine,autochtone,Mi’kma’ki,48.891922,-64.559415
+Essipit,Côte-Nord,autochtone,Nitassinan,48.341059,-69.396944
+Pessamit,Côte-Nord,autochtone,Nitassinan,48.941738,-68.641119
+Uashat mak Mani-utenam,Côte-Nord,autochtone,Nitassinan,50.212460,-66.195202
+Ekuanitshit,Côte-Nord,autochtone,Nitassinan,50.291197,-64.023276
+Nutashkuan,Côte-Nord,autochtone,Nitassinan,50.132545,-61.803516
+Pakua-shipit,Côte-Nord,autochtone,Nitassinan,51.195618,-58.715791
+Unaman-shipit,Côte-Nord,autochtone,Nitassinan,50.218308,-60.661069
+Matimekush-Lac John,Côte-Nord,autochtone,Nitassinan,54.813169,-66.784232
