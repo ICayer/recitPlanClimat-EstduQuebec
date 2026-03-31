@@ -61,8 +61,8 @@ export async function loadAllData() {
       communauteCSV,
       territoiresPPraw
     ] = await Promise.all([
-      d3.json("public/data/20mrc_EstduQuebec_inverse3.json"),
-      d3.csv("public/data/20mrc_jeune_service_coord.csv", d => ({
+      d3.json("./public/data/20mrc_EstduQuebec_inverse3.json"),
+      d3.csv("./public/data/20mrc_jeune_service_coord.csv", d => ({
         code: d.MRS_CO_MRC,
         nomMRC: d.MRS_NM_MRC,
         region: d.MRS_NM_REG,
@@ -76,7 +76,7 @@ export async function loadAllData() {
         lon: +d.longitude,
         lat: +d.latitude
       })),
-      d3.csv("public/data/20mrc_date_services.csv", (d, i) => ({
+      d3.csv("./public/data/20mrc_date_services.csv", (d, i) => ({
         id: `${d.ville}-${d.MRS_NM_MRC}-${i}`,
         mrc: d.MRS_NM_MRC,
         region: d.MRS_NM_REG,
@@ -85,7 +85,7 @@ export async function loadAllData() {
         lon: +d.longitude,
         lat: +d.latitude
       })),
-      d3.csv("public/data/communauteLayer.csv", d => ({
+      d3.csv("./public/data/communauteLayer.csv", d => ({
         id: d.id,
         label: d.ville,
         typeCommunaute: d.typeCommunaute,
@@ -93,7 +93,7 @@ export async function loadAllData() {
         lon: +d.longitude,
         lat: +d.latitude
       })),
-      d3.json("public/data/territoiresPP_Qc.json")
+      d3.json("./public/data/territoiresPP_Qc.json")
     ]);
 
     // 🔥 Correction géométrie territoires autochtones
